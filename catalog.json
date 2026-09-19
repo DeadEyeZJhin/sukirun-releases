@@ -1,0 +1,464 @@
+{
+ "app": "SukiRun",
+ "kind": "catalog",
+ "catalogVersion": 1,
+ "publishedAt": "2026-09-19",
+ "products": [
+  {
+   "id": "caterpillar",
+   "name": "Yummy Gummy - Caterpillar",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "banana",
+   "name": "Yummy Gummy - Banana",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "mango",
+   "name": "Yummy Gummy - Mango",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "heart",
+   "name": "Yummy Gummy - Heart",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "orange",
+   "name": "Yummy Gummy - Orange",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "sugarbear",
+   "name": "Yummy Gummy - Sugar Bear",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "flower",
+   "name": "Yummy Gummy - Flower",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "dolphin",
+   "name": "Yummy Gummy - Dolphin",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "teeth",
+   "name": "Yummy Gummy - Teeth",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "cola",
+   "name": "Yummy Gummy - Cola",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "ring",
+   "name": "Yummy Gummy - Ring",
+   "price": 360,
+   "unit": "2.5kg pack (x6/case)"
+  },
+  {
+   "id": "lollipop",
+   "name": "Love Lollipop (30pcs)",
+   "price": 122,
+   "unit": "jar"
+  },
+  {
+   "id": "tarocube",
+   "name": "Milk Choco Taro Cube",
+   "price": 122,
+   "unit": "jar"
+  },
+  {
+   "id": "mickeylollipop",
+   "name": "Mickey Lollipop",
+   "price": 122,
+   "unit": "jar (1x30)"
+  },
+  {
+   "id": "orangeslice",
+   "name": "Orange Slice (30pcs)",
+   "price": 122,
+   "unit": "jar (1x30)"
+  },
+  {
+   "id": "milkcube",
+   "name": "Milk Cube",
+   "price": 122,
+   "unit": "jar"
+  },
+  {
+   "id": "chococube",
+   "name": "Choco Cube",
+   "price": 122,
+   "unit": "jar"
+  },
+  {
+   "id": "bigtattoo-jar",
+   "name": "Big Tattoo Bubble Gum (100pcs)",
+   "price": 110,
+   "unit": "jar"
+  },
+  {
+   "id": "bigtattoo-pack",
+   "name": "Big Tattoo Bubble Gum (pouch)",
+   "price": 28,
+   "unit": "pouch"
+  },
+  {
+   "id": "holecandy",
+   "name": "Hole Candy (fruit flavor)",
+   "price": 27.5,
+   "unit": "pack"
+  },
+  {
+   "id": "whiso",
+   "name": "Whis O Ring",
+   "price": 27.5,
+   "unit": "pack"
+  },
+  {
+   "id": "bunny",
+   "name": "Bunny Fruit Flavor Candy",
+   "price": 27.5,
+   "unit": "pack"
+  },
+  {
+   "id": "chocosnips",
+   "name": "Choco Snips",
+   "price": 27.5,
+   "unit": "pack"
+  },
+  {
+   "id": "minichocosnips",
+   "name": "Mini Choco Snips",
+   "price": 27.5,
+   "unit": "pack"
+  },
+  {
+   "id": "minions",
+   "name": "Minions Bubble Gum",
+   "price": 40,
+   "unit": "pack"
+  },
+  {
+   "id": "chocostone",
+   "name": "Choco Stone",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "butiki",
+   "name": "Butiki Coated Candy",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "rainbowmix",
+   "name": "Rainbow Mix",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "rainbowsnips",
+   "name": "Rainbow Snips",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "rainbowdew",
+   "name": "Rainbow Dew",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "rockyroll",
+   "name": "Rocky Roll",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "popopbomb",
+   "name": "Popop Bomb",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "cowhead-choco",
+   "name": "Cowhead Chocolate Tablet",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "cowhead-milk",
+   "name": "Cowhead Milk Tablet",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "cool-mango",
+   "name": "Cool & Cool Mango",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "cool-orange",
+   "name": "Cool & Cool Orange",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "cool-strawberry",
+   "name": "Cool & Cool Strawberry",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "cool-apple",
+   "name": "Cool & Cool Apple",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "cool-grape",
+   "name": "Cool & Cool Grape",
+   "price": 24,
+   "unit": "pack"
+  },
+  {
+   "id": "stick-strawberry",
+   "name": "Strawberry Fruity Stick (50pcs)",
+   "price": 44.5,
+   "unit": "pack"
+  },
+  {
+   "id": "stick-orange",
+   "name": "Orange Fruity Stick (50pcs)",
+   "price": 44.5,
+   "unit": "pack"
+  },
+  {
+   "id": "combifruitti",
+   "name": "Combi Fruitti Stick (50pcs)",
+   "price": 44.5,
+   "unit": "pack"
+  },
+  {
+   "id": "twinfun",
+   "name": "Twin Fun Stick (50pcs)",
+   "price": 44.5,
+   "unit": "pack"
+  },
+  {
+   "id": "yogurtstick",
+   "name": "Yogurt Fruity Stick (extra long)",
+   "price": 46,
+   "unit": "pack"
+  },
+  {
+   "id": "milkstick",
+   "name": "Milk Stick (50pcs)",
+   "price": 44.5,
+   "unit": "pack"
+  },
+  {
+   "id": "milkchocostick",
+   "name": "Milk Choco Stick (50pcs)",
+   "price": 44.5,
+   "unit": "pack"
+  },
+  {
+   "id": "jelly-mango",
+   "name": "Jellylite Mango",
+   "price": 67,
+   "unit": "box"
+  },
+  {
+   "id": "jelly-orange",
+   "name": "Jellylite Orange",
+   "price": 67,
+   "unit": "box"
+  },
+  {
+   "id": "jelly-strawberry",
+   "name": "Jellylite Strawberry",
+   "price": 67,
+   "unit": "box"
+  },
+  {
+   "id": "jelly-kiwi",
+   "name": "Jellylite Kiwi",
+   "price": 67,
+   "unit": "box"
+  },
+  {
+   "id": "jelly-blueberry",
+   "name": "Jellylite Blueberry",
+   "price": 67,
+   "unit": "box"
+  },
+  {
+   "id": "goldcoin",
+   "name": "Goldcoin Chocolate Egg (120pcs)",
+   "price": 148.5,
+   "unit": "box"
+  },
+  {
+   "id": "mayo-tub",
+   "name": "Season's Mayo Dressing (3.5)",
+   "price": 195,
+   "unit": "tub"
+  },
+  {
+   "id": "mayo-1l",
+   "name": "Season's Mayo Dressing (1L)",
+   "price": 73.5,
+   "unit": "tub"
+  },
+  {
+   "id": "mayo-pouch",
+   "name": "Season's Mayo Dressing (200ml)",
+   "price": 16,
+   "unit": "pouch"
+  },
+  {
+   "id": "burger-tub",
+   "name": "Season's Burger Dressing (3.5)",
+   "price": 200,
+   "unit": "tub"
+  },
+  {
+   "id": "burger-1l",
+   "name": "Season's Burger Dressing (1L)",
+   "price": 73.5,
+   "unit": "tub"
+  },
+  {
+   "id": "burger-pouch",
+   "name": "Season's Burger Dressing (200ml)",
+   "price": 16,
+   "unit": "pouch"
+  },
+  {
+   "id": "dressing-tub",
+   "name": "Season's All Purpose Dressing (tub)",
+   "price": 0,
+   "unit": "tub"
+  },
+  {
+   "id": "hotsauce-1l",
+   "name": "Season's Hot Sauce (1L)",
+   "price": 44,
+   "unit": "bottle"
+  },
+  {
+   "id": "hotsauce-gal",
+   "name": "Season's Hot Sauce (gallon)",
+   "price": 113,
+   "unit": "gallon"
+  },
+  {
+   "id": "molo-yellow",
+   "name": "Q Molo Wrapper (yellow)",
+   "price": 18,
+   "unit": "pack"
+  },
+  {
+   "id": "molo-white",
+   "name": "Q Molo Wrapper (white)",
+   "price": 18,
+   "unit": "pack"
+  },
+  {
+   "id": "misua-45",
+   "name": "Q Misua 45g",
+   "price": 51,
+   "unit": "45g x 10's"
+  },
+  {
+   "id": "misua-100",
+   "name": "Q Misua 100g",
+   "price": 59,
+   "unit": "100g"
+  },
+  {
+   "id": "taochiam-45",
+   "name": "Q TaoChiam 45g",
+   "price": 51,
+   "unit": "45g"
+  },
+  {
+   "id": "taochiam-100",
+   "name": "Q TaoChiam 100g",
+   "price": 59,
+   "unit": "100g"
+  },
+  {
+   "id": "yema-original",
+   "name": "Yema Original (30s)",
+   "price": 29,
+   "unit": "pack of 30"
+  },
+  {
+   "id": "yema-mango",
+   "name": "Yema Mango (30s)",
+   "price": 29,
+   "unit": "pack of 30"
+  },
+  {
+   "id": "yema-ube",
+   "name": "Yema Ube (30s)",
+   "price": 29,
+   "unit": "pack of 30"
+  },
+  {
+   "id": "taochiam-eggyellow",
+   "name": "Q TaoChiam Egg Yellow 100g",
+   "price": 0,
+   "unit": "100g"
+  },
+  {
+   "id": "siomai-yellow",
+   "name": "Q Siomai Wrapper (yellow)",
+   "price": 0,
+   "unit": "pack"
+  },
+  {
+   "id": "siomai-white",
+   "name": "Q Siomai Wrapper (white)",
+   "price": 0,
+   "unit": "pack"
+  },
+  {
+   "id": "miki",
+   "name": "Q Miki Special Noodles",
+   "price": 0,
+   "unit": "pack"
+  },
+  {
+   "id": "sardines-tomato",
+   "name": "Grand Kim Sardines in Tomato Sauce",
+   "price": 0,
+   "unit": "155g can"
+  },
+  {
+   "id": "sardines-chili",
+   "name": "Kim Sardines in Tomato Sauce with Chili",
+   "price": 0,
+   "unit": "155g can"
+  }
+ ]
+}
